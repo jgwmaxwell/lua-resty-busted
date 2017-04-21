@@ -1,11 +1,11 @@
 package = "lua-resty-busted"
-version = "0.0.1-0"
+version = "0.0.2-0"
 source = {
-  url = "git://github.com/thibaultCha/lua-resty-busted",
-  tag = "0.0.1"
+  url = "git://github.com/jgwmaxwell/lua-resty-busted",
+  tag = "0.0.2"
 }
 dependencies = {
-  "busted ~> 2.0.rc11"
+  "busted ~> 2.0.rc12-1"
 }
 description = {
   summary = "",
